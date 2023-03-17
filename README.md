@@ -5,7 +5,8 @@ Testováno na: Windows 7 a Windows 10
 <hr>
 Návod najdete přímo v programu. Funguje na základě registru systému Windows.
 Děkuji za stažení!
-(C)Thisik 2023
+NEJSEM ZODPOVĚDNÝ ZA ŠKODY ZPŮSOBENÉ ŠPATNÝM ZADÁNÍM NÁZVU FONTU!
+  (C)Thisik 2023
 
 <hr>
 <h1>Font changer for Windows 7-10
@@ -23,5 +24,6 @@ It works based on the Windows Registry.
 <hr>
 <h4>Thanks for download!
 <hr>
-(C)Thisik 2023
-<
+I AM NOT RESPONSIBLE FOR DAMAGES CAUSED BY SPECIFYING THE FONT NAME WRONG!
+ (C)Thisik 2023
+
