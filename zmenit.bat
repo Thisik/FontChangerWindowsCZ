@@ -20,6 +20,7 @@ echo. >> pismo.reg
 echo [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes] >> pismo.reg
 echo. >> pismo.reg
 echo "Segoe UI"="%pismo%" >> pismo.reg
-echo HOTOVO. NYNI NAJDETE SOUBOR PISMO.REG A OTEVRETE HO. POTVRDTE A RESTARTUJTE POCITAC PRO APLIKOVANI ZMEN!
-pause
+start pismo.reg
+echo DOKONCENO! PO APLIKOVANI ZMEN JE POTREBA RESTART. SKISKNI LIBOVOLNOU KLAVESU PRO RESTART
+shutdown -r -t 0
 exit
