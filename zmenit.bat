@@ -22,5 +22,6 @@ echo. >> pismo.reg
 echo "Segoe UI"="%pismo%" >> pismo.reg
 start pismo.reg
 echo DOKONCENO! PO APLIKOVANI ZMEN JE POTREBA RESTART. SKISKNI LIBOVOLNOU KLAVESU PRO RESTART
+pause > nul
 shutdown -r -t 0
 exit
